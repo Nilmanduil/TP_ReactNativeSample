@@ -1,0 +1,6 @@
+projectKey=com.bewizyu.samples:react-native-sample
+serverUrl=http://localhost:9000
+serverVersion=6.7.0.33306
+dashboardUrl=http://localhost:9000/dashboard/index/com.bewizyu.samples:react-native-sample
+ceTaskId=AV_ZpEOku9rX1vT9rX9e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV_ZpEOku9rX1vT9rX9e
