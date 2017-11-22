@@ -72,10 +72,10 @@ import com.android.build.OutputFile
  * ]
  */
 
-project.ext.envConfigFiles = [
+/*project.ext.envConfigFiles = [
         debug: ".env.dev",
         release: ".env.prod",
-]
+]*/
 
 apply from: "../../node_modules/react-native/react.gradle"
 
